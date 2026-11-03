@@ -1,0 +1,278 @@
+- generic [ref=f4e2]:
+  - generic [ref=f4e3]:
+    - link "ErickWendel" [ref=f4e4] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f4e6] [cursor=pointer]
+  - generic [ref=f4e9]:
+    - generic [ref=f4e10]:
+      - generic [ref=f4e11]: EN-US
+      - link "Erick WendelTalks" [ref=f4e13] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f4e14] [cursor=pointer]
+    - generic [ref=f4e17]:
+      - link "TALKS" [ref=f4e19] [cursor=pointer]:
+        - /url: /talks
+      - link "POSTS" [ref=f4e21] [cursor=pointer]:
+        - /url: /posts/1
+      - link "VIDEOS" [ref=f4e23] [cursor=pointer]:
+        - /url: /videos/1
+      - link "ABOUT" [ref=f4e25] [cursor=pointer]:
+        - /url: /about
+      - link "COURSES" [ref=f4e27] [cursor=pointer]:
+        - /url: http://cursos.erickwendel.com.br?origin=timeline
+  - generic [ref=f4e30]:
+    - generic [ref=f4e35]:
+      - generic [ref=f4e36]:
+        - generic [ref=f4e37]: Erick Wendel
+        - generic [ref=f4e38]: Talks
+      - generic [ref=f4e39]: Let's conquer the world
+      - generic [ref=f4e41]: "#DaZLParaOMundo"
+      - generic [ref=f4e45]: EN-US
+    - generic [ref=f4e54]:
+      - generic [ref=f4e55]:
+        - generic [ref=f4e56]: Talks (153)
+        - generic [ref=f4e58]:
+          - link "Map":
+            - /url: /talks
+            - button "Map"
+          - link [ref=f4e59] [cursor=pointer]:
+            - /url: /talks/1
+            - button "Table" [ref=f4e60]
+      - img [ref=f4e62]:
+        - generic [ref=f4e241]:
+          - link [ref=f4e242] [cursor=pointer]:
+            - /url: /talks/country/Brazil
+          - link [ref=f4e244] [cursor=pointer]:
+            - /url: /talks/country/United States
+          - link [ref=f4e246] [cursor=pointer]:
+            - /url: /talks/country/Netherlands
+          - link [ref=f4e248] [cursor=pointer]:
+            - /url: /talks/country/Colombia
+          - link [ref=f4e250] [cursor=pointer]:
+            - /url: /talks/country/Germany
+          - link [ref=f4e252] [cursor=pointer]:
+            - /url: /talks/country/Israel
+          - link [ref=f4e254] [cursor=pointer]:
+            - /url: /talks/country/Spain
+          - link [ref=f4e256] [cursor=pointer]:
+            - /url: /talks/country/Uruguay
+          - link [ref=f4e258] [cursor=pointer]:
+            - /url: /talks/country/Canada
+          - link [ref=f4e260] [cursor=pointer]:
+            - /url: /talks/country/Italy
+          - link [ref=f4e262] [cursor=pointer]:
+            - /url: /talks/country/Greece
+          - link [ref=f4e264] [cursor=pointer]:
+            - /url: /talks/country/Ukraine
+          - link [ref=f4e266] [cursor=pointer]:
+            - /url: /talks/country/South Korea
+          - link [ref=f4e268] [cursor=pointer]:
+            - /url: /talks/country/United Kingdom
+          - link [ref=f4e270] [cursor=pointer]:
+            - /url: /talks/country/Belgium
+          - link [ref=f4e272] [cursor=pointer]:
+            - /url: /talks/country/Norway
+          - link [ref=f4e274] [cursor=pointer]:
+            - /url: /talks/country/Portugal
+          - link [ref=f4e276] [cursor=pointer]:
+            - /url: /talks/country/Romania
+          - link [ref=f4e278] [cursor=pointer]:
+            - /url: /talks/country/Chile
+          - link [ref=f4e280] [cursor=pointer]:
+            - /url: /talks/country/Croatia
+          - link [ref=f4e282] [cursor=pointer]:
+            - /url: /talks/country/Costa Rica
+          - link [ref=f4e284] [cursor=pointer]:
+            - /url: /talks/country/Ecuador
+    - generic [ref=f4e286]:
+      - generic [ref=f4e288]:
+        - generic [ref=f4e289]: World Talks
+        - generic [ref=f4e290]:
+          - generic [ref=f4e291]:
+            - generic [ref=f4e292]: Country
+            - generic [ref=f4e293]: Talks
+          - generic [ref=f4e294]:
+            - generic [ref=f4e296]:
+              - generic [ref=f4e297]: 🇧🇷Brazil
+              - generic [ref=f4e298]: "106"
+              - link [ref=f4e299] [cursor=pointer]:
+                - /url: /talks/country/Brazil
+                - button "Detail" [ref=f4e300]
+            - generic [ref=f4e305]:
+              - generic [ref=f4e306]: 🇺🇸United States
+              - generic [ref=f4e307]: "11"
+              - link [ref=f4e308] [cursor=pointer]:
+                - /url: /talks/country/United States
+                - button "Detail" [ref=f4e309]
+            - generic [ref=f4e314]:
+              - generic [ref=f4e315]: 🇳🇱Netherlands
+              - generic [ref=f4e316]: "4"
+              - link [ref=f4e317] [cursor=pointer]:
+                - /url: /talks/country/Netherlands
+                - button "Detail" [ref=f4e318]
+            - generic [ref=f4e323]:
+              - generic [ref=f4e324]: 🇨🇴Colombia
+              - generic [ref=f4e325]: "4"
+              - link [ref=f4e326] [cursor=pointer]:
+                - /url: /talks/country/Colombia
+                - button "Detail" [ref=f4e327]
+            - generic [ref=f4e332]:
+              - generic [ref=f4e333]: 🇩🇪Germany
+              - generic [ref=f4e334]: "3"
+              - link [ref=f4e335] [cursor=pointer]:
+                - /url: /talks/country/Germany
+                - button "Detail" [ref=f4e336]
+            - generic [ref=f4e341]:
+              - generic [ref=f4e342]: 🇮🇱Israel
+              - generic [ref=f4e343]: "3"
+              - link [ref=f4e344] [cursor=pointer]:
+                - /url: /talks/country/Israel
+                - button "Detail" [ref=f4e345]
+            - generic [ref=f4e350]:
+              - generic [ref=f4e351]: 🇪🇸Spain
+              - generic [ref=f4e352]: "3"
+              - link [ref=f4e353] [cursor=pointer]:
+                - /url: /talks/country/Spain
+                - button "Detail" [ref=f4e354]
+            - generic [ref=f4e359]:
+              - generic [ref=f4e360]: 🇺🇾Uruguay
+              - generic [ref=f4e361]: "2"
+              - link [ref=f4e362] [cursor=pointer]:
+                - /url: /talks/country/Uruguay
+                - button "Detail" [ref=f4e363]
+            - generic [ref=f4e368]:
+              - generic [ref=f4e369]: 🇨🇦Canada
+              - generic [ref=f4e370]: "2"
+              - link [ref=f4e371] [cursor=pointer]:
+                - /url: /talks/country/Canada
+                - button "Detail" [ref=f4e372]
+            - generic [ref=f4e377]:
+              - generic [ref=f4e378]: 🇮🇹Italy
+              - generic [ref=f4e379]: "2"
+              - link [ref=f4e380] [cursor=pointer]:
+                - /url: /talks/country/Italy
+                - button "Detail" [ref=f4e381]
+            - generic [ref=f4e386]:
+              - generic [ref=f4e387]: 🇬🇷Greece
+              - generic [ref=f4e388]: "2"
+              - link [ref=f4e389] [cursor=pointer]:
+                - /url: /talks/country/Greece
+                - button "Detail" [ref=f4e390]
+            - generic [ref=f4e395]:
+              - generic [ref=f4e396]: 🇺🇦Ukraine
+              - generic [ref=f4e397]: "1"
+              - link [ref=f4e398] [cursor=pointer]:
+                - /url: /talks/country/Ukraine
+                - button "Detail" [ref=f4e399]
+            - generic [ref=f4e404]:
+              - generic [ref=f4e405]: 🇰🇷South Korea
+              - generic [ref=f4e406]: "1"
+              - link [ref=f4e407] [cursor=pointer]:
+                - /url: /talks/country/South Korea
+                - button "Detail" [ref=f4e408]
+            - generic [ref=f4e413]:
+              - generic [ref=f4e414]: 🇬🇧United Kingdom
+              - generic [ref=f4e415]: "1"
+              - link [ref=f4e416] [cursor=pointer]:
+                - /url: /talks/country/United Kingdom
+                - button "Detail" [ref=f4e417]
+            - generic [ref=f4e422]:
+              - generic [ref=f4e423]: 🇧🇪Belgium
+              - generic [ref=f4e424]: "1"
+              - link [ref=f4e425] [cursor=pointer]:
+                - /url: /talks/country/Belgium
+                - button "Detail" [ref=f4e426]
+            - generic [ref=f4e431]:
+              - generic [ref=f4e432]: 🇳🇴Norway
+              - generic [ref=f4e433]: "1"
+              - link [ref=f4e434] [cursor=pointer]:
+                - /url: /talks/country/Norway
+                - button "Detail" [ref=f4e435]
+            - generic [ref=f4e440]:
+              - generic [ref=f4e441]: 🇵🇹Portugal
+              - generic [ref=f4e442]: "1"
+              - link [ref=f4e443] [cursor=pointer]:
+                - /url: /talks/country/Portugal
+                - button "Detail" [ref=f4e444]
+            - generic [ref=f4e449]:
+              - generic [ref=f4e450]: 🇷🇴Romania
+              - generic [ref=f4e451]: "1"
+              - link [ref=f4e452] [cursor=pointer]:
+                - /url: /talks/country/Romania
+                - button "Detail" [ref=f4e453]
+            - generic [ref=f4e458]:
+              - generic [ref=f4e459]: 🇨🇱Chile
+              - generic [ref=f4e460]: "1"
+              - link [ref=f4e461] [cursor=pointer]:
+                - /url: /talks/country/Chile
+                - button "Detail" [ref=f4e462]
+            - generic [ref=f4e467]:
+              - generic [ref=f4e468]: 🇭🇷Croatia
+              - generic [ref=f4e469]: "1"
+              - link [ref=f4e470] [cursor=pointer]:
+                - /url: /talks/country/Croatia
+                - button "Detail" [ref=f4e471]
+            - generic [ref=f4e476]:
+              - generic [ref=f4e477]: 🇨🇷Costa Rica
+              - generic [ref=f4e478]: "1"
+              - link [ref=f4e479] [cursor=pointer]:
+                - /url: /talks/country/Costa Rica
+                - button "Detail" [ref=f4e480]
+            - generic [ref=f4e485]:
+              - generic [ref=f4e486]: 🇪🇨Ecuador
+              - generic [ref=f4e487]: "1"
+              - link [ref=f4e488] [cursor=pointer]:
+                - /url: /talks/country/Ecuador
+                - button "Detail" [ref=f4e489]
+      - generic [ref=f4e494]:
+        - generic [ref=f4e495]: All Talks (153)
+        - generic [ref=f4e497]:
+          - textbox [ref=f4e500]
+          - generic [ref=f4e503]:
+            - generic [ref=f4e505]: Past Talks
+            - generic [ref=f4e507]: Future talks
+          - generic [ref=f4e508]:
+            - 'link "Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge 1 JSConf ESPAÑA 2026 2026-03-14" [ref=f4e511] [cursor=pointer]':
+              - /url: /talk/detail/6ad9993ca2d4b5566e44d326
+              - generic [ref=f4e512]: "Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge 1"
+              - generic [ref=f4e515]:
+                - generic [ref=f4e516]: JSConf ESPAÑA 2026
+                - generic [ref=f4e517]: 2026-03-14
+            - link "La Revolución de la IA Integrada en los Navegadores Devfest Ecuador 2025 2025-11-29" [ref=f4e520] [cursor=pointer]:
+              - /url: /talk/detail/69e185919129cfe08e2fd792
+              - generic [ref=f4e521]: La Revolución de la IA Integrada en los Navegadores
+              - generic [ref=f4e524]:
+                - generic [ref=f4e525]: Devfest Ecuador 2025
+                - generic [ref=f4e526]: 2025-11-29
+            - link "Construindo autoridade global na tecnologia e convertendo isso em dólares Dev na Gringa Summit 2025-11-22" [ref=f4e529] [cursor=pointer]:
+              - /url: /talk/detail/69e185919129cfe08e2fd78f
+              - generic [ref=f4e530]: Construindo autoridade global na tecnologia e convertendo isso em dólares
+              - generic [ref=f4e533]:
+                - generic [ref=f4e534]: Dev na Gringa Summit
+                - generic [ref=f4e535]: 2025-11-22
+            - link "La Revolución de la IA Integrada en los Navegadores Devfest Pura Vida 2025 2025-11-08" [ref=f4e538] [cursor=pointer]:
+              - /url: /talk/detail/69e185919129cfe08e2fd791
+              - generic [ref=f4e539]: La Revolución de la IA Integrada en los Navegadores
+              - generic [ref=f4e542]:
+                - generic [ref=f4e543]: Devfest Pura Vida 2025
+                - generic [ref=f4e544]: 2025-11-08
+            - link "Criando agentes de IA no navegador usando JavaScript MVP Conf 2025 2025-10-25" [ref=f4e547] [cursor=pointer]:
+              - /url: /talk/detail/69e188f39129cfe08e30053d
+              - generic [ref=f4e548]: Criando agentes de IA no navegador usando JavaScript
+              - generic [ref=f4e551]:
+                - generic [ref=f4e552]: MVP Conf 2025
+                - generic [ref=f4e553]: 2025-10-25
+            - 'link "Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web Web AI Summit 2025 2025-10-17" [ref=f4e556] [cursor=pointer]':
+              - /url: /talk/detail/69e185919129cfe08e2fd795
+              - generic [ref=f4e557]: "Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web"
+              - generic [ref=f4e560]:
+                - generic [ref=f4e561]: Web AI Summit 2025
+                - generic [ref=f4e562]: 2025-10-17
+        - generic [ref=f4e565]:
+          - generic [ref=f4e566] [cursor=pointer]: "1"
+          - generic [ref=f4e568] [cursor=pointer]: "2"
+          - generic [ref=f4e570] [cursor=pointer]: "3"
+          - generic [ref=f4e572] [cursor=pointer]: "4"
+          - generic [ref=f4e574] [cursor=pointer]: "5"
+          - generic [ref=f4e576] [cursor=pointer]
+          - generic [ref=f4e579] [cursor=pointer]

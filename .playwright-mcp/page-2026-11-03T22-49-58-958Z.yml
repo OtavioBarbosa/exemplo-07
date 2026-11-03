@@ -1,0 +1,128 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e3]:
+    - link "ErickWendel" [ref=f3e4] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f3e6] [cursor=pointer]
+  - generic [ref=f3e9]:
+    - generic [ref=f3e10]:
+      - generic [ref=f3e11]: EN-US
+      - link "Erick WendelTalks" [ref=f3e13] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f3e14] [cursor=pointer]
+    - generic [ref=f3e17]:
+      - link "TALKS" [ref=f3e19] [cursor=pointer]:
+        - /url: /talks
+      - link "POSTS" [ref=f3e21] [cursor=pointer]:
+        - /url: /posts/1
+      - link "VIDEOS" [ref=f3e23] [cursor=pointer]:
+        - /url: /videos/1
+      - link "ABOUT" [ref=f3e25] [cursor=pointer]:
+        - /url: /about
+      - link "COURSES" [ref=f3e27] [cursor=pointer]:
+        - /url: http://cursos.erickwendel.com.br?origin=timeline
+  - generic [ref=f3e30]:
+    - generic [ref=f3e31]:
+      - img [aria-hidden] [ref=f3e33] [cursor=pointer]
+      - generic [ref=f3e35]: Talks (153)
+      - generic [ref=f3e37]:
+        - link [ref=f3e38] [cursor=pointer]:
+          - /url: /talks
+          - button "Map" [ref=f3e39]
+        - link "Table":
+          - /url: /talks/1
+          - button "Table"
+    - textbox [ref=f3e42]
+    - generic [ref=f3e45]:
+      - generic [ref=f3e46]:
+        - 'link "Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge 1 JSConf ESPAÑA 2026 2026-03-14" [ref=f3e49] [cursor=pointer]':
+          - /url: /talk/detail/6ad9993ca2d4b5566e44d326
+          - generic [ref=f3e50]: "Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge 1"
+          - generic [ref=f3e53]:
+            - generic [ref=f3e54]: JSConf ESPAÑA 2026
+            - generic [ref=f3e55]: 2026-03-14
+        - link "La Revolución de la IA Integrada en los Navegadores Devfest Ecuador 2025 2025-11-29" [ref=f3e58] [cursor=pointer]:
+          - /url: /talk/detail/69e185919129cfe08e2fd792
+          - generic [ref=f3e59]: La Revolución de la IA Integrada en los Navegadores
+          - generic [ref=f3e62]:
+            - generic [ref=f3e63]: Devfest Ecuador 2025
+            - generic [ref=f3e64]: 2025-11-29
+        - link "Construindo autoridade global na tecnologia e convertendo isso em dólares Dev na Gringa Summit 2025-11-22" [ref=f3e67] [cursor=pointer]:
+          - /url: /talk/detail/69e185919129cfe08e2fd78f
+          - generic [ref=f3e68]: Construindo autoridade global na tecnologia e convertendo isso em dólares
+          - generic [ref=f3e71]:
+            - generic [ref=f3e72]: Dev na Gringa Summit
+            - generic [ref=f3e73]: 2025-11-22
+        - link "La Revolución de la IA Integrada en los Navegadores Devfest Pura Vida 2025 2025-11-08" [ref=f3e76] [cursor=pointer]:
+          - /url: /talk/detail/69e185919129cfe08e2fd791
+          - generic [ref=f3e77]: La Revolución de la IA Integrada en los Navegadores
+          - generic [ref=f3e80]:
+            - generic [ref=f3e81]: Devfest Pura Vida 2025
+            - generic [ref=f3e82]: 2025-11-08
+        - link "Criando agentes de IA no navegador usando JavaScript MVP Conf 2025 2025-10-25" [ref=f3e85] [cursor=pointer]:
+          - /url: /talk/detail/69e188f39129cfe08e30053d
+          - generic [ref=f3e86]: Criando agentes de IA no navegador usando JavaScript
+          - generic [ref=f3e89]:
+            - generic [ref=f3e90]: MVP Conf 2025
+            - generic [ref=f3e91]: 2025-10-25
+        - 'link "Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web Web AI Summit 2025 2025-10-17" [ref=f3e94] [cursor=pointer]':
+          - /url: /talk/detail/69e185919129cfe08e2fd795
+          - generic [ref=f3e95]: "Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web"
+          - generic [ref=f3e98]:
+            - generic [ref=f3e99]: Web AI Summit 2025
+            - generic [ref=f3e100]: 2025-10-17
+      - generic [ref=f3e101]:
+        - 'link "Cut the SaaS: How I Saved Thousands with Kubernetes & Open Source Infobip Shift Zadar 2025 2025-09-15" [ref=f3e104] [cursor=pointer]':
+          - /url: /talk/detail/69e185919129cfe08e2fd790
+          - generic [ref=f3e105]: "Cut the SaaS: How I Saved Thousands with Kubernetes & Open Source"
+          - generic [ref=f3e108]:
+            - generic [ref=f3e109]: Infobip Shift Zadar 2025
+            - generic [ref=f3e110]: 2025-09-15
+        - link "Como economizei milhares com self-hosting e open source Codecon 2025-07-18" [ref=f3e113] [cursor=pointer]:
+          - /url: /talk/detail/69e185919129cfe08e2fd793
+          - generic [ref=f3e114]: Como economizei milhares com self-hosting e open source
+          - generic [ref=f3e117]:
+            - generic [ref=f3e118]: Codecon
+            - generic [ref=f3e119]: 2025-07-18
+        - link "Lo nuevo de JavaScript y Node.js para 2025 JSConf España 2025-03-01" [ref=f3e122] [cursor=pointer]:
+          - /url: /talk/detail/67cf6de852a8cb0e0f1c283c
+          - generic [ref=f3e123]: Lo nuevo de JavaScript y Node.js para 2025
+          - generic [ref=f3e126]:
+            - generic [ref=f3e127]: JSConf España
+            - generic [ref=f3e128]: 2025-03-01
+        - link "Recreemos el test runner de Node.js desde cero JSConf Chile 2024-12-07" [ref=f3e131] [cursor=pointer]:
+          - /url: /talk/detail/67cf6de852a8cb0e0f1c2841
+          - generic [ref=f3e132]: Recreemos el test runner de Node.js desde cero
+          - generic [ref=f3e135]:
+            - generic [ref=f3e136]: JSConf Chile
+            - generic [ref=f3e137]: 2024-12-07
+        - link "WebXR? Realidade Virtual e Aumentada nativamente em navegadores Dev Fest Cerrado 2024-11-23" [ref=f3e140] [cursor=pointer]:
+          - /url: /talk/detail/67cf6de852a8cb0e0f1c283f
+          - generic [ref=f3e141]: WebXR? Realidade Virtual e Aumentada nativamente em navegadores
+          - generic [ref=f3e144]:
+            - generic [ref=f3e145]: Dev Fest Cerrado
+            - generic [ref=f3e146]: 2024-11-23
+        - link "WebXR? Realidade Virtual e Aumentada nativamente em navegadores Dev Fest Triangulo 2024-11-02" [ref=f3e149] [cursor=pointer]:
+          - /url: /talk/detail/67cf6de852a8cb0e0f1c2840
+          - generic [ref=f3e150]: WebXR? Realidade Virtual e Aumentada nativamente em navegadores
+          - generic [ref=f3e153]:
+            - generic [ref=f3e154]: Dev Fest Triangulo
+            - generic [ref=f3e155]: 2024-11-02
+    - generic [ref=f3e157]:
+      - link:
+        - /url: /talks/1
+      - link:
+        - /url: /talks/0
+      - link "1" [ref=f3e158] [cursor=pointer]:
+        - /url: /talks/1
+      - link "2" [ref=f3e160] [cursor=pointer]:
+        - /url: /talks/2
+      - link "3" [ref=f3e162] [cursor=pointer]:
+        - /url: /talks/3
+      - link "4" [ref=f3e164] [cursor=pointer]:
+        - /url: /talks/4
+      - link "5" [ref=f3e166] [cursor=pointer]:
+        - /url: /talks/5
+      - link [ref=f3e168] [cursor=pointer]:
+        - /url: /talks/2
+      - link [ref=f3e171] [cursor=pointer]:
+        - /url: /talks/13

@@ -1,0 +1,22 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e3]:
+    - link "ErickWendel" [ref=f2e4] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f2e6] [cursor=pointer]
+  - generic [ref=f2e9]:
+    - generic [ref=f2e10]:
+      - generic [ref=f2e11]: EN-US
+      - link "Erick WendelTalks" [ref=f2e13] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f2e14] [cursor=pointer]
+    - generic [ref=f2e17]:
+      - link "TALKS" [ref=f2e19] [cursor=pointer]:
+        - /url: /talks
+      - link "POSTS" [ref=f2e21] [cursor=pointer]:
+        - /url: /posts/1
+      - link "VIDEOS" [ref=f2e23] [cursor=pointer]:
+        - /url: /videos/1
+      - link "ABOUT" [ref=f2e25]:
+        - /url: /about
+      - link "COURSES" [ref=f2e27] [cursor=pointer]:
+        - /url: http://cursos.erickwendel.com.br?origin=timeline
